@@ -1,0 +1,31 @@
+# Author: Dan Lee
+# Date: 02-04-19
+
+#################################################
+# Apartment finding application
+#################################################
+
+# Requirements 
+
+# Techstack
+
+1) Flask
+2) PostgreSQL
+4) Unittesting 
+
+# Data Source
+
+1) Zillow
+2) Craigslist
+3) Apartments
+
+# User Inputs
+
+1) Location of workplace
+2) Miles
+3) Price range
+4) Number of bedrooms 
+
+# Server Response
+
+# Listing 
